@@ -1,2 +1,4 @@
 # Vault-GRS-LRS
-Method for converting an GRS recover services vault to LRS
+Providing a method for converting an GRS recover services vault to LRS.
+
+

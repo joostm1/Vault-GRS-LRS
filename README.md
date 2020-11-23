@@ -27,6 +27,7 @@ In the examples below, I will move a few VM's from my GSR vault, rv1west to a ne
 <br>
 <br>
 <h3>Stop protection of this VM in the old vault"</h3>
+<img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/rsv3.png" alt="Stop protection">
 <br>
 <br>
 </p>

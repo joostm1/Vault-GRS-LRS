@@ -35,7 +35,7 @@ In the examples below, I will move a few VM's from my GSR vault, rv1west to a ne
 Once the protection of the VM's is suspended on the old vault, the VM's need to be moved to another resource group. This move results in a new resource id for the VM which creates the possibility to protect this VM in another vault. The existing backups are kept in the old vault for their retention period.
 <br>
 <h3>Move each VM that is protected in the old vault to another resource group</h3>
-<img src=">
+<img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/move1.png" alt="Move VM to another resource group">
 
 </p>
 

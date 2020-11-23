@@ -1,5 +1,5 @@
 <h1>Vault GRS to LRS</h1>
-<h2>Provide a method for chnaging from a GRS to an LRS recovery services vault</h2>
+<h2>Provide a method for changing from a GRS to an LRS recovery services vault</h2>
 
 <p>
 <h2>Introduction</h2>
@@ -30,5 +30,12 @@ In the examples below, I will move a few VM's from my GSR vault, rv1west to a ne
 <img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/rsv3.png" alt="Stop protection">
 <br>
 <br>
+<h2>Move the VM's to a new resource group</h2>
+<br>
+Once the protection of the VM's is suspended on the old vault, the VM's need to be moved to another resource group. This move results in a new resource id for the VM which creates the possibility to protect this VM in another vault. The existing backups are kept in the old vault for their retention period.
+<br>
+<h3>Move each VM that is protected in the old vault to another resource group</h3>
+<img src=">
+
 </p>
 

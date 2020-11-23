@@ -47,6 +47,6 @@ Moving a VM to another RG <b>does not</b> cause a restart of the VM.
 <h2>Create a new vault and associate the VM with it</h2>
 Once the VM's are in another resource group, it can be associated with a new vault, <i>rv2west</i> in my example.
 Previous backups are retained in the previous vault and new backups will be kept in the new <i>rv2west</i> vault.
-<img src=https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/move3.png" alt="New vault">
+<img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/move3.png" alt="New vault">
 </p>
 

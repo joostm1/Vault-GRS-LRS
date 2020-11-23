@@ -36,6 +36,12 @@ Once the protection of the VM's is suspended on the old vault, the VM's need to 
 <br>
 <h3>Move each VM that is protected in the old vault to another resource group</h3>
 <img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/move1.png" alt="Move VM to another resource group">
-
+<br>
+<br>
+<h3>Move the VM</h3>
+Move the VM to another RG. As identified, this results in a change of the resource id of that VM which might impact other services that rely on the resource id.
+<img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/move2.png" alt="Move the VM">
+<br>
+<br>
 </p>
 

@@ -41,7 +41,11 @@ Once the protection of the VM's is suspended on the old vault, the VM's need to 
 <h3>Move the VM</h3>
 Move the VM to another RG. As identified, this results in a change of the resource id of that VM which might impact other services that rely on the resource id.
 <img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/move2.png" alt="Move the VM">
+Moving a VM to another RG <b>does not</b> cause a restart of the VM.
 <br>
 <br>
+<h2>Create a new vault and associate the VM with it</h2>
+Once the VM's are in another resource group, it can be associated with a new vault, <i>rv2west</i> in my example.
+Previous backups are retained in the previous vault and new backups will be kept in the new <i>rv2west</i> vault.
 </p>
 

@@ -20,6 +20,6 @@ In the examples below, I will move a few VM's from my GSR vault, rv1west to a ne
 
 
 
-<img src="https://github.com/joostm1/storsimple-exit/blob/master/content/storsimple-files-migration-overview.png" alt="Migration overview">
+<img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/rsv1.png" alt="Vaults">
 </p>
 

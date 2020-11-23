@@ -18,12 +18,16 @@ In the examples below, I will move a few VM's from my GSR vault, rv1west to a ne
 
 <h2>Stop protection of the VM's in the GRS vault</h2>
 <br>
-<h3>Navigate to Azure Virtual Machines in the Backup Items of your old vault<h3>
-<img src="https://github.com/joostm1/storsimple-exit/blob/master/content/storsimple-files-migration-overview.png" alt="Migration overview">
-
-
-<h3>
-
-
+<h3>Navigate to Azure Virtual Machines in the Backup Items of your old vault</h3>
+<img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/rsv1.png" alt="Migration overview">
+<br>
+<br>
+<h3>Select each VM that is being protected by this vault</h3>
+<img src="https://github.com/joostm1/Vault-GRS-LRS/blob/main/content/rsv2.png" alt="Select VM's">
+<br>
+<br>
+<h3>Stop protection of this VM in the old vault"</h3>
+<br>
+<br>
 </p>
 
